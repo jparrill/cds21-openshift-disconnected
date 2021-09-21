@@ -38,14 +38,13 @@ You better check the documentation before you start dealing with a real one!
     - Red Hat CoreOS Image Sync
     - Networking in-place
     - A valid install-config file
-    - Disconnected OLM (CatalogSources and ICSPs)
+    - Disconnected Operator Lifecycle Manager
 
 - OCP Deployment
     
     - UPI/IPI
-    - Deployment Customization
+    - Alternative Methods 
 
-- OpenShift and Operators Life-cycle
 
 .background assets/img/background.png
 
